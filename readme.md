@@ -2,4 +2,8 @@ change for test file
 This ia branch line -  - -  	
 
 yet another change for test file
-Hello world
+<<<<<<< HEAD
+Hello Universe
+=======
+Hello Universe
+>>>>>>> my-branch
